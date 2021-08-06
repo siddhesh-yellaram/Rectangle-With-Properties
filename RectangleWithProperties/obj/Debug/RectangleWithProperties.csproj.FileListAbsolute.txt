@@ -1,0 +1,7 @@
+D:\test\.NET\RectangleWithProperties\bin\Debug\RectangleWithProperties.exe.config
+D:\test\.NET\RectangleWithProperties\bin\Debug\RectangleWithProperties.exe
+D:\test\.NET\RectangleWithProperties\bin\Debug\RectangleWithProperties.pdb
+D:\test\.NET\RectangleWithProperties\obj\Debug\RectangleWithProperties.csproj.AssemblyReference.cache
+D:\test\.NET\RectangleWithProperties\obj\Debug\RectangleWithProperties.csproj.CoreCompileInputs.cache
+D:\test\.NET\RectangleWithProperties\obj\Debug\RectangleWithProperties.exe
+D:\test\.NET\RectangleWithProperties\obj\Debug\RectangleWithProperties.pdb
